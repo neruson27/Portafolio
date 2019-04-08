@@ -48,7 +48,7 @@
 <style scoped>
     @keyframes scroll {
         0% { transform: translateX(0); }
-        100% { transform: translateX(calc(-260px * 6))}
+        100% { transform: translateX(calc(-280px * 6))}
     }
 
     .slider {
@@ -83,7 +83,7 @@
 	.slide-track {
 		animation: scroll 30s linear infinite;
 		display: flex;
-		width: calc(250px * 3);
+		width: calc(280px * 3);
 	}
 
     .imagen {
