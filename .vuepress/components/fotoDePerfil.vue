@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img class="perfil" src="../../assets/Perfil.jpg" alt="foto"/>
+        <img class="perfil" src="../../static/Perfil.jpg" alt="foto"/>
     </div>
 </template>
 

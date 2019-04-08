@@ -7,11 +7,18 @@ Soy Nelson Gonzalez y en esta, mi introducción, no tengo mucho que contarte la 
 
 Mis inicios como desarrollador han sido algo tardíos, comenzando en esto a los 20 años, con toda mi vida trabajando haciendo servicio técnico, simplemente un día me puse a aprender por mi cuenta todo lo que hasta ahora se de programación.
 
+Actualmente estoy muy interesado en el desarrollo web, y las tecnologías afines de JS, me esfuerzo cada día para lograr a ser un gran desarrollador full stack.
+
 Entre los lenguajes que he aprendido con lo largo de los años están:
 
 - C++
 - C#
 - Python
+- PHP
 - Javascript
 
-Siendo este ultimo el que actualmente estoy _masterizando_.
+Siendo este último el que actualmente estoy _masterizando_.
+
+# Trabajos que he realizado
+
+<trabajosRealizados />
